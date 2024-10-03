@@ -13,3 +13,10 @@ i = 1
 while i <= 10:
     print(4*i)
     i += 1
+
+
+nums = [1, 23, 45, 6, 90, 34, 5, 100]
+idx = 0
+while idx < len(nums):
+    print(nums[idx])
+    idx += 1
