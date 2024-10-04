@@ -20,3 +20,9 @@ idx = 0
 while idx < len(nums):
     print(nums[idx])
     idx += 1
+
+heros = ["ironman", "batman", "spiderman"]
+idx = 0
+while idx < len(heros):
+    print(heros[idx])
+    idx += 1
