@@ -26,3 +26,12 @@ idx = 0
 while idx < len(heros):
     print(heros[idx])
     idx += 1
+
+nums = (1, 3, 5, 8, 23, 45, 67, 89, 100)
+
+x = 45
+
+i = 0
+while i < len(nums):
+
+    i += 1
