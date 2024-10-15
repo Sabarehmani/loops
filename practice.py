@@ -35,5 +35,6 @@ i = 0
 while i < len(nums):
     if(nums[i] == x):
         print("FOUND at idx", i)
-
+    else:
+        print("finding....")
     i += 1
